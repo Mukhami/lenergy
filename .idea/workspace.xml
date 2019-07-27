@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58496bb5-3d4d-4cf5-9b4d-cd3ca58a9ba9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Mukhami.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -23,12 +21,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="147" column="6" lean-forward="true" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+            <state relative-caret-position="330">
+              <caret line="114" column="82" lean-forward="true" selection-start-line="114" selection-start-column="82" selection-end-line="114" selection-end-column="82" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -47,6 +43,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>nav</find>
+      <find>rel</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,12 +119,12 @@
       <updated>1563779445731</updated>
       <workItem from="1563779447186" duration="12373000" />
       <workItem from="1564061182160" duration="21000" />
-      <workItem from="1564218638967" duration="3940000" />
+      <workItem from="1564218638967" duration="7572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16334000" />
+    <option name="totallyTimeSpent" value="19966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -169,12 +166,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="147" column="6" lean-forward="true" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+        <state relative-caret-position="330">
+          <caret line="114" column="82" lean-forward="true" selection-start-line="114" selection-start-column="82" selection-end-line="114" selection-end-column="82" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
